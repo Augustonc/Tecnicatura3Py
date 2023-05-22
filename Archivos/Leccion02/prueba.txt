@@ -1,0 +1,16 @@
+Programamos con diferentes tipos de archivos, ahora en txt
+Los acentos son importantes para la palabras
+como por ejemplo: acción, ejecución y producción
+-----------------------------
+Los parámetros del método open son {
+	r: Read
+	a: Append
+	w: Write
+	x: Excepción, en caso de que no exista el archivo
+	t: texto
+	b: archivos binarios
+	w+: Lee y escribe
+	r+: Escribir y leer
+	encoding = "utf8": Juego de caracteres UTF-8 para no tener problemas con acentos
+	}
+Con esto terminamos
